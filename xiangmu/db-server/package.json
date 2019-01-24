@@ -1,0 +1,19 @@
+{
+  "name": "db-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "node server.js"
+  },
+  "author": "zfl <zfl@npm.js>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "jsdom": "^13.1.0"
+  },
+  "devDependencies": {
+    "axios": "^0.18.0"
+  }
+}
