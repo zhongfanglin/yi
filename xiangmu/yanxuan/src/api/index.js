@@ -2,6 +2,7 @@
 接口：请求首页头部导航数据
 method：GET
 params:无
+传参数的要求
  */
 const CATELIST_URL = '/api/home/catelist';
 
